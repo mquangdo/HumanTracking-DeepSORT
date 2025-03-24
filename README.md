@@ -1,3 +1,5 @@
+#MobileNetV2 feature extractor for DeepSORT with YOLOv8 detector.
+
 # Deep SORT
 
 ## Introduction
