@@ -1,5 +1,5 @@
 # MobileNetV2 feature extractor for DeepSORT with YOLOv8 detector.
-![Output](tracking_results.gif)
+![Output](tracking_result.gif)
 
 # Deep SORT
 
